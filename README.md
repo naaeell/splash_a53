@@ -16,7 +16,7 @@ Once completed, your phone should reboot normally.
 
 ## Screenshots
 
-![](source/logo.jpg)
+![](source/logo.jpg = 250x250)
 ![](source/svb_orange.jpg)
 
 
