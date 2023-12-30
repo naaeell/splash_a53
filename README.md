@@ -3,6 +3,8 @@
 
 Create a custom splash logo for the Samsung Galaxy A53 inspired by the boot animation of the OnePlus Cyberpunk Edition.
 
+## Warning
+I am not responsible for any damage caused to your device, but I may offer assistance in the event that it becomes inoperable.
 
 ## How to install
 
