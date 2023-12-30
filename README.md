@@ -18,8 +18,8 @@ Once completed, your phone should reboot normally.
 
 ## Screenshots
 
-![](source/logo.jpg)
-![](source/svb_orange.jpg)
+![](screenshot/1.jpg)
+![](screenshot/2.jpg)
 
 
 ## FAQ
